@@ -1,6 +1,6 @@
 {
   "id": "obsidian-quote-of-the-day",
-  "name": "Quote of the Day",
+  "name": "QotD",
   "version": "0.0.1",
   "min_app_version": "1.3.0",
   "description": "Automatically fetches and displays a Quote of the Day, and user-defined rating, inside Obsidian.",
